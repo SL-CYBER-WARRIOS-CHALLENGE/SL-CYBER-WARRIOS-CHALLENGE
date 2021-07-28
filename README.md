@@ -27,7 +27,7 @@
 </br>
 # Powered By Fsociety
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pinindu-Tharushan&label=Views&color=blue&style=plastic" alt="Can't See..!! Change Browser" width="10%"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SL-CYBER-WARRIOS-CHALLENGE&label=Views&color=blue&style=plastic" alt="Can't See..!! Change Browser" width="10%"/> </p>
 </div>
 
 <!---
